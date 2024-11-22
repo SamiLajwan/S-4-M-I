@@ -52,7 +52,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=SamiLajwan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 
-div align="center">
+
     <img src = "https://leetcard.jacoblin.cool/Sami_3121?theme=forest&font=ABeeZee&ext=heatmap." />
 </div>
 
