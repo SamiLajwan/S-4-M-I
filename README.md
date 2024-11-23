@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-    <img src="E//:Github.jpg" width="100%" alt="Banner Image" />
+    <img src="Github.jpg" width="80%" alt="Banner Image" />
 </div>
 
 
