@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" width="100%" alt="Banner Image" />
+    <img src="E//:Github.jpg" width="100%" alt="Banner Image" />
 </div>
 
 
