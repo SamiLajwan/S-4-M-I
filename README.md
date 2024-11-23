@@ -41,11 +41,17 @@
 
 
 <!-- GitHub Stats -->
-<p><img align=" centered" src="https://github-readme-stats.vercel.app/api?username=SamiLajwan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&hide_border=true&locale=en&layout=compact" alt="samilajwan" /></p>
+<p>
+    <img align=" center" src="https://github-readme-stats.vercel.app/api?username=SamiLajwan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&hide_border=true&locale=en&layout=compact" alt="SamiLajwan" style: display: inline-block; />
+</p>
 
-<p>&nbsp;<img align="centered" src="https://github-readme-streak-stats.herokuapp.com/?user=SamiLajwan&theme=tokyonight&hide_border=true" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamiLajwan&theme=tokyonight&hide_border=true" /></p>
 
-<p><img align="centered" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiLajwan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiLajwan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+
+
 
 <!-- GitHub Trophies -->
 <div align="center">
@@ -53,8 +59,8 @@
 </div>
 
 <div align = "center">
-    <img src="https://leetcode.card.workers.dev/sami_3121?theme=auto&font=baloo&extension=activity&cache=0" alt="https://leetcode.com//u/sami_3121/" style = height="50%" width=60%;
-    display: inline-block;" />
+    <img src="https://leetcode.card.workers.dev/sami_3121?theme=auto&font=baloo&extension=activity&cache=0" alt="https://leetcode.com//u/sami_3121/" style = "height= 50% width=60%
+display:inline-block" />
 </div>
 
 
