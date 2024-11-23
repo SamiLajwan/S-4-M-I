@@ -53,7 +53,7 @@
 </div>
 
 <div align = "center">
-    <img src="https://leetcode.card.workers.dev/sami_3121?theme=auto&font=baloo&extension=activity&cache=0" alt="https://leetcode.com//u/sami_3121/" style = "width: 50%;
+    <img src="https://leetcode.card.workers.dev/sami_3121?theme=auto&font=baloo&extension=activity&cache=0" alt="https://leetcode.com//u/sami_3121/" style = height="50%" width=60%;
     display: inline-block;" />
 </div>
 
