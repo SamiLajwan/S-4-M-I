@@ -58,11 +58,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=SamiLajwan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 
-<div align = "center">
-    <img src="https://leetcode.card.workers.dev/sami_3121?theme=auto&font=baloo&extension=activity&cache=0" alt="https://leetcode.com//u/sami_3121/" style = "height= 50% width=60%
-display:inline-block" />
+<div align="center">
+    <img src="https://leetcode.card.workers.dev/sami_3121?theme=auto&font=baloo&extension=activity&cache=0" alt="https://leetcode.com//u/sami_3121/" style="height: 50%; width: 60%; display: inline-block;" />
 </div>
-
 
 
 <!-- Languages & tools -->
