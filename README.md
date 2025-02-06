@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-    <img src="(https://leetcard.jacoblin.cool/sami_3121?theme=light&font=JetBrains%20Mono&ext=heatmap)" style="height: 50%; width: 60%; display: inline-block;" />
+    <img src="https://leetcard.jacoblin.cool/sami_3121?theme=light&font=JetBrains%20Mono&ext=heatmap" style="height: 45%; width: 45%; display: inline-block;" />
 </div>
 
 
